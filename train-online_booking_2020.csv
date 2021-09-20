@@ -1,0 +1,697 @@
+province,type,tanggal,klasifikasi,all_available_room,room_total
+Bali,Hotel,1/1/2020,Rated,2155,37756
+Bali,Hotel,1/1/2020,Not Rated,163,392
+Bali,Hotel,1/2/2020,Rated,3878,38814
+Bali,Hotel,1/2/2020,Not Rated,211,415
+Bali,Hotel,1/3/2020,Rated,5412,39084
+Bali,Hotel,1/3/2020,Not Rated,256,444
+Bali,Hotel,1/4/2020,Rated,7786,39310
+Bali,Hotel,1/4/2020,Not Rated,306,483
+Bali,Hotel,1/5/2020,Rated,7956,39334
+Bali,Hotel,1/5/2020,Not Rated,273,448
+Bali,Hotel,1/6/2020,Rated,9238,39553
+Bali,Hotel,1/6/2020,Not Rated,266,423
+Bali,Hotel,1/7/2020,Rated,9565,39595
+Bali,Hotel,1/7/2020,Not Rated,323,473
+Bali,Hotel,1/8/2020,Rated,12530,45832
+Bali,Hotel,1/8/2020,Not Rated,1014,1285
+Bali,Hotel,1/9/2020,Rated,12183,45396
+Bali,Hotel,1/9/2020,Not Rated,965,1251
+Bali,Hotel,1/10/2020,Rated,11406,45395
+Bali,Hotel,1/10/2020,Not Rated,814,1112
+Bali,Hotel,1/11/2020,Rated,11409,45831
+Bali,Hotel,1/11/2020,Not Rated,995,1277
+Bali,Hotel,1/12/2020,Rated,12516,45825
+Bali,Hotel,1/12/2020,Not Rated,767,1052
+Bali,Hotel,1/13/2020,Rated,12669,45748
+Bali,Hotel,1/13/2020,Not Rated,840,1129
+Bali,Hotel,1/14/2020,Rated,12928,45681
+Bali,Hotel,1/14/2020,Not Rated,740,1020
+Bali,Hotel,1/15/2020,Rated,12164,45495
+Bali,Hotel,1/15/2020,Not Rated,682,968
+Bali,Hotel,1/16/2020,Rated,11325,45223
+Bali,Hotel,1/16/2020,Not Rated,428,722
+Bali,Hotel,1/17/2020,Rated,11305,45320
+Bali,Hotel,1/17/2020,Not Rated,474,781
+Bali,Hotel,1/18/2020,Rated,11784,45270
+Bali,Hotel,1/18/2020,Not Rated,459,766
+Bali,Hotel,1/19/2020,Rated,10871,39667
+Bali,Hotel,1/19/2020,Not Rated,250,416
+Bali,Hotel,1/20/2020,Rated,12864,45203
+Bali,Hotel,1/20/2020,Not Rated,500,795
+Bali,Hotel,1/21/2020,Rated,8998,36211
+Bali,Hotel,1/21/2020,Not Rated,20,104
+Bali,Hotel,1/22/2020,Rated,12350,45011
+Bali,Hotel,1/22/2020,Not Rated,392,685
+Bali,Hotel,1/23/2020,Rated,10964,43311
+Bali,Hotel,1/23/2020,Not Rated,386,643
+Bali,Hotel,1/24/2020,Rated,11141,45184
+Bali,Hotel,1/24/2020,Not Rated,504,783
+Bali,Hotel,1/25/2020,Rated,10511,44538
+Bali,Hotel,1/25/2020,Not Rated,493,785
+Bali,Hotel,1/26/2020,Rated,11327,43468
+Bali,Hotel,1/26/2020,Not Rated,393,606
+Bali,Hotel,1/27/2020,Rated,12535,43243
+Bali,Hotel,1/27/2020,Not Rated,503,774
+Bali,Hotel,1/28/2020,Rated,11044,42099
+Bali,Hotel,1/28/2020,Not Rated,232,417
+Bali,Hotel,1/30/2020,Rated,12313,42292
+Bali,Hotel,1/30/2020,Not Rated,229,416
+Bali,Hotel,1/31/2020,Rated,9593,37915
+Bali,Hotel,1/31/2020,Not Rated,31,103
+Bali,Hotel,2/3/2020,Rated,13967,45637
+Bali,Hotel,2/3/2020,Not Rated,456,736
+Bali,Hotel,2/4/2020,Rated,13755,45656
+Bali,Hotel,2/4/2020,Not Rated,439,712
+Bali,Hotel,2/5/2020,Rated,13169,45569
+Bali,Hotel,2/5/2020,Not Rated,430,727
+Bali,Hotel,2/6/2020,Rated,13714,45537
+Bali,Hotel,2/6/2020,Not Rated,441,728
+Bali,Hotel,2/10/2020,Rated,13880,45529
+Bali,Hotel,2/10/2020,Not Rated,433,695
+Bali,Hotel,2/11/2020,Rated,13880,45855
+Bali,Hotel,2/11/2020,Not Rated,406,714
+Bali,Hotel,2/12/2020,Rated,14428,46347
+Bali,Hotel,2/12/2020,Not Rated,403,690
+Bali,Hotel,2/14/2020,Rated,12544,46038
+Bali,Hotel,2/14/2020,Not Rated,405,709
+Bali,Hotel,2/15/2020,Rated,12733,46261
+Bali,Hotel,2/15/2020,Not Rated,416,712
+Bali,Hotel,2/16/2020,Rated,14460,46418
+Bali,Hotel,2/16/2020,Not Rated,436,718
+Bali,Hotel,2/17/2020,Rated,14585,45915
+Bali,Hotel,2/17/2020,Not Rated,460,730
+Bali,Hotel,2/18/2020,Rated,14337,45783
+Bali,Hotel,2/18/2020,Not Rated,437,722
+Bali,Hotel,2/19/2020,Rated,14035,45769
+Bali,Hotel,2/19/2020,Not Rated,434,732
+Bali,Hotel,2/20/2020,Rated,13611,45736
+Bali,Hotel,2/20/2020,Not Rated,397,705
+Bali,Hotel,2/21/2020,Rated,23268,55336
+Bali,Hotel,2/21/2020,Not Rated,421,729
+Bali,Hotel,2/22/2020,Rated,12283,45420
+Bali,Hotel,2/22/2020,Not Rated,385,682
+Bali,Hotel,2/23/2020,Rated,13345,45732
+Bali,Hotel,2/23/2020,Not Rated,441,724
+Bali,Hotel,2/24/2020,Rated,13915,45733
+Bali,Hotel,2/24/2020,Not Rated,476,729
+Bali,Hotel,2/25/2020,Rated,33187,62289
+Bali,Hotel,2/25/2020,Not Rated,386,635
+Bali,Hotel,2/26/2020,Rated,13736,44616
+Bali,Hotel,2/26/2020,Not Rated,436,676
+Bali,Hotel,2/27/2020,Rated,13731,45563
+Bali,Hotel,2/27/2020,Not Rated,451,707
+Bali,Hotel,2/28/2020,Rated,13864,45561
+Bali,Hotel,2/28/2020,Not Rated,414,691
+Bali,Hotel,2/29/2020,Rated,13438,44865
+Bali,Hotel,2/29/2020,Not Rated,417,684
+Bali,Hotel,3/1/2020,Rated,16923,45693
+Bali,Hotel,3/1/2020,Not Rated,542,704
+Bali,Hotel,3/2/2020,Rated,17147,45817
+Bali,Hotel,3/2/2020,Not Rated,516,706
+Bali,Hotel,3/3/2020,Rated,17842,45792
+Bali,Hotel,3/3/2020,Not Rated,527,696
+Bali,Hotel,3/4/2020,Rated,16896,45707
+Bali,Hotel,3/4/2020,Not Rated,520,705
+Bali,Hotel,3/5/2020,Rated,16872,45693
+Bali,Hotel,3/5/2020,Not Rated,546,714
+Bali,Hotel,3/6/2020,Rated,17670,45339
+Bali,Hotel,3/6/2020,Not Rated,539,697
+Bali,Hotel,3/7/2020,Rated,17480,45348
+Bali,Hotel,3/7/2020,Not Rated,524,696
+Bali,Hotel,3/8/2020,Rated,17287,45462
+Bali,Hotel,3/8/2020,Not Rated,559,719
+Bali,Hotel,3/9/2020,Rated,17269,45752
+Bali,Hotel,3/9/2020,Not Rated,524,725
+Bali,Hotel,3/10/2020,Rated,27320,55278
+Bali,Hotel,3/10/2020,Not Rated,561,718
+Bali,Hotel,3/11/2020,Rated,18474,45425
+Bali,Hotel,3/11/2020,Not Rated,531,718
+Bali,Hotel,3/12/2020,Rated,19821,46274
+Bali,Hotel,3/12/2020,Not Rated,552,728
+Bali,Hotel,3/13/2020,Rated,39656,65692
+Bali,Hotel,3/13/2020,Not Rated,602,745
+Bali,Hotel,3/14/2020,Rated,40065,65426
+Bali,Hotel,3/14/2020,Not Rated,564,740
+Bali,Hotel,3/15/2020,Rated,22586,46674
+Bali,Hotel,3/15/2020,Not Rated,581,742
+Bali,Hotel,3/16/2020,Rated,32309,56167
+Bali,Hotel,3/16/2020,Not Rated,545,726
+Bali,Hotel,3/17/2020,Rated,23507,46937
+Bali,Hotel,3/17/2020,Not Rated,624,749
+Bali,Hotel,3/18/2020,Rated,53857,76609
+Bali,Hotel,3/18/2020,Not Rated,635,776
+Bali,Hotel,3/19/2020,Rated,24694,46863
+Bali,Hotel,3/19/2020,Not Rated,649,767
+Bali,Hotel,3/20/2020,Rated,24952,47065
+Bali,Hotel,3/20/2020,Not Rated,719,815
+Bali,Hotel,3/21/2020,Rated,34567,56283
+Bali,Hotel,3/21/2020,Not Rated,662,788
+Bali,Hotel,3/22/2020,Rated,55894,76300
+Bali,Hotel,3/22/2020,Not Rated,707,813
+Bali,Hotel,3/23/2020,Rated,75305,96343
+Bali,Hotel,3/23/2020,Not Rated,677,755
+Bali,Hotel,3/24/2020,Rated,27398,38485
+Bali,Hotel,3/24/2020,Not Rated,401,479
+Bali,Hotel,3/25/2020,Rated,46375,58041
+Bali,Hotel,3/25/2020,Not Rated,403,479
+Bali,Hotel,3/26/2020,Rated,26045,46870
+Bali,Hotel,3/26/2020,Not Rated,659,734
+Bali,Hotel,3/27/2020,Rated,75814,96410
+Bali,Hotel,3/27/2020,Not Rated,673,756
+Bali,Hotel,3/28/2020,Rated,27106,47716
+Bali,Hotel,3/28/2020,Not Rated,697,771
+Bali,Hotel,3/29/2020,Rated,26858,47584
+Bali,Hotel,3/29/2020,Not Rated,740,811
+Bali,Hotel,3/30/2020,Rated,58758,80100
+Bali,Hotel,3/30/2020,Not Rated,367,444
+Bali,Hotel,4/1/2020,Rated,21259,34835
+Bali,Hotel,4/1/2020,Not Rated,312,388
+Bali,Hotel,4/2/2020,Rated,20851,34397
+Bali,Hotel,4/2/2020,Not Rated,316,394
+Bali,Hotel,4/3/2020,Rated,20614,33503
+Bali,Hotel,4/3/2020,Not Rated,312,390
+Bali,Hotel,4/4/2020,Rated,19753,33067
+Bali,Hotel,4/4/2020,Not Rated,316,392
+Bali,Hotel,4/5/2020,Rated,21121,34045
+Bali,Hotel,4/5/2020,Not Rated,318,396
+Bali,Hotel,4/6/2020,Rated,33946,46570
+Bali,Hotel,4/6/2020,Not Rated,576,653
+Bali,Hotel,4/7/2020,Rated,33155,46342
+Bali,Hotel,4/7/2020,Not Rated,537,659
+Bali,Hotel,4/8/2020,Rated,34393,46844
+Bali,Hotel,4/8/2020,Not Rated,529,656
+Bali,Hotel,4/9/2020,Rated,34280,46936
+Bali,Hotel,4/9/2020,Not Rated,526,649
+Bali,Hotel,4/10/2020,Rated,35170,46957
+Bali,Hotel,4/10/2020,Not Rated,522,634
+Bali,Hotel,4/11/2020,Rated,35719,47962
+Bali,Hotel,4/11/2020,Not Rated,537,645
+Bali,Hotel,4/12/2020,Rated,34963,47123
+Bali,Hotel,4/12/2020,Not Rated,539,647
+Bali,Hotel,4/13/2020,Rated,36160,47990
+Bali,Hotel,4/13/2020,Not Rated,512,619
+Bali,Hotel,4/14/2020,Rated,36153,47180
+Bali,Hotel,4/14/2020,Not Rated,532,643
+Bali,Hotel,4/15/2020,Rated,56831,68135
+Bali,Hotel,4/15/2020,Not Rated,523,641
+Bali,Hotel,4/16/2020,Rated,39973,50353
+Bali,Hotel,4/16/2020,Not Rated,594,651
+Bali,Hotel,4/17/2020,Rated,40070,50074
+Bali,Hotel,4/17/2020,Not Rated,588,646
+Bali,Hotel,4/18/2020,Rated,40077,49991
+Bali,Hotel,4/18/2020,Not Rated,585,647
+Bali,Hotel,4/19/2020,Rated,40025,49971
+Bali,Hotel,4/19/2020,Not Rated,586,659
+Bali,Hotel,4/20/2020,Rated,38166,48101
+Bali,Hotel,4/20/2020,Not Rated,554,634
+Bali,Hotel,4/21/2020,Rated,42015,52246
+Bali,Hotel,4/21/2020,Not Rated,621,698
+Bali,Hotel,4/22/2020,Rated,39218,49081
+Bali,Hotel,4/22/2020,Not Rated,611,690
+Bali,Hotel,4/23/2020,Rated,40342,50063
+Bali,Hotel,4/23/2020,Not Rated,621,701
+Bali,Hotel,4/24/2020,Rated,40350,49958
+Bali,Hotel,4/24/2020,Not Rated,639,711
+Bali,Hotel,4/25/2020,Rated,24792,34001
+Bali,Hotel,4/25/2020,Not Rated,251,336
+Bali,Hotel,4/26/2020,Rated,21769,30959
+Bali,Hotel,4/26/2020,Not Rated,249,326
+Bali,Hotel,4/27/2020,Rated,21529,30961
+Bali,Hotel,4/27/2020,Not Rated,249,320
+Bali,Hotel,4/28/2020,Rated,24618,33856
+Bali,Hotel,4/28/2020,Not Rated,224,294
+Bali,Hotel,4/29/2020,Rated,21386,30616
+Bali,Hotel,4/29/2020,Not Rated,221,294
+Bali,Hotel,4/30/2020,Rated,19638,29764
+Bali,Hotel,4/30/2020,Not Rated,231,303
+Bali,Hotel,5/1/2020,Rated,31119,47520
+Bali,Hotel,5/1/2020,Not Rated,598,730
+Bali,Hotel,5/2/2020,Rated,36664,52977
+Bali,Hotel,5/2/2020,Not Rated,592,731
+Bali,Hotel,5/3/2020,Rated,37748,54035
+Bali,Hotel,5/3/2020,Not Rated,592,727
+Bali,Hotel,5/4/2020,Rated,31807,48621
+Bali,Hotel,5/4/2020,Not Rated,595,727
+Bali,Hotel,5/5/2020,Rated,35146,51704
+Bali,Hotel,5/5/2020,Not Rated,610,737
+Bali,Hotel,5/6/2020,Rated,31932,48353
+Bali,Hotel,5/6/2020,Not Rated,603,732
+Bali,Hotel,5/7/2020,Rated,32915,49864
+Bali,Hotel,5/7/2020,Not Rated,586,729
+Bali,Hotel,5/8/2020,Rated,32428,49512
+Bali,Hotel,5/8/2020,Not Rated,585,733
+Bali,Hotel,5/9/2020,Rated,30447,47681
+Bali,Hotel,5/9/2020,Not Rated,591,743
+Bali,Hotel,5/10/2020,Rated,33356,50132
+Bali,Hotel,5/10/2020,Not Rated,606,756
+Bali,Hotel,5/11/2020,Rated,32949,49770
+Bali,Hotel,5/11/2020,Not Rated,599,745
+Bali,Hotel,5/12/2020,Rated,32869,50026
+Bali,Hotel,5/12/2020,Not Rated,598,745
+Bali,Hotel,5/13/2020,Rated,36410,52547
+Bali,Hotel,5/13/2020,Not Rated,594,744
+Bali,Hotel,5/14/2020,Rated,34850,51405
+Bali,Hotel,5/14/2020,Not Rated,597,746
+Bali,Hotel,5/15/2020,Rated,35256,51495
+Bali,Hotel,5/15/2020,Not Rated,555,692
+Bali,Hotel,5/16/2020,Rated,33474,49875
+Bali,Hotel,5/16/2020,Not Rated,547,688
+Bali,Hotel,5/17/2020,Rated,36329,52443
+Bali,Hotel,5/17/2020,Not Rated,541,685
+Bali,Hotel,5/18/2020,Rated,34921,51293
+Bali,Hotel,5/18/2020,Not Rated,534,687
+Bali,Hotel,5/19/2020,Rated,36362,52385
+Bali,Hotel,5/19/2020,Not Rated,555,678
+Bali,Hotel,5/20/2020,Rated,35247,51511
+Bali,Hotel,5/20/2020,Not Rated,551,682
+Bali,Hotel,5/21/2020,Rated,36110,52669
+Bali,Hotel,5/21/2020,Not Rated,557,681
+Bali,Hotel,5/22/2020,Rated,35062,51708
+Bali,Hotel,5/22/2020,Not Rated,565,689
+Bali,Hotel,5/23/2020,Rated,36465,52479
+Bali,Hotel,5/23/2020,Not Rated,551,678
+Bali,Hotel,5/24/2020,Rated,35516,51412
+Bali,Hotel,5/24/2020,Not Rated,633,688
+Bali,Hotel,5/25/2020,Rated,33835,49962
+Bali,Hotel,5/25/2020,Not Rated,566,681
+Bali,Hotel,5/26/2020,Rated,17195,34262
+Bali,Hotel,5/26/2020,Not Rated,254,374
+Bali,Hotel,5/27/2020,Rated,17687,33727
+Bali,Hotel,5/27/2020,Not Rated,251,346
+Bali,Hotel,5/28/2020,Rated,18380,35135
+Bali,Hotel,5/28/2020,Not Rated,250,409
+Bali,Hotel,5/29/2020,Rated,17983,33690
+Bali,Hotel,5/29/2020,Not Rated,249,411
+Bali,Hotel,5/30/2020,Rated,16659,32539
+Bali,Hotel,5/30/2020,Not Rated,261,419
+Bali,Hotel,5/31/2020,Rated,17249,33340
+Bali,Hotel,5/31/2020,Not Rated,259,418
+Bali,Hotel,6/1/2020,Rated,21723,40000
+Bali,Hotel,6/1/2020,Not Rated,274,426
+Bali,Hotel,6/2/2020,Rated,33850,52838
+Bali,Hotel,6/2/2020,Not Rated,518,673
+Bali,Hotel,6/3/2020,Rated,33920,52780
+Bali,Hotel,6/3/2020,Not Rated,507,664
+Bali,Hotel,6/4/2020,Rated,33704,50624
+Bali,Hotel,6/4/2020,Not Rated,566,665
+Bali,Hotel,6/5/2020,Rated,35017,51888
+Bali,Hotel,6/5/2020,Not Rated,504,653
+Bali,Hotel,6/6/2020,Rated,34879,51784
+Bali,Hotel,6/6/2020,Not Rated,572,654
+Bali,Hotel,6/7/2020,Rated,34882,51863
+Bali,Hotel,6/7/2020,Not Rated,574,661
+Bali,Hotel,6/8/2020,Rated,34864,51866
+Bali,Hotel,6/8/2020,Not Rated,577,659
+Bali,Hotel,6/9/2020,Rated,30471,47876
+Bali,Hotel,6/9/2020,Not Rated,561,644
+Bali,Hotel,6/10/2020,Rated,35254,51413
+Bali,Hotel,6/10/2020,Not Rated,574,657
+Bali,Hotel,6/11/2020,Rated,36609,52704
+Bali,Hotel,6/11/2020,Not Rated,578,661
+Bali,Hotel,6/12/2020,Rated,36871,52848
+Bali,Hotel,6/12/2020,Not Rated,564,653
+Bali,Hotel,6/13/2020,Rated,35637,51662
+Bali,Hotel,6/13/2020,Not Rated,585,668
+Bali,Hotel,6/14/2020,Rated,35668,51849
+Bali,Hotel,6/14/2020,Not Rated,594,670
+Bali,Hotel,6/15/2020,Rated,35026,51804
+Bali,Hotel,6/15/2020,Not Rated,601,676
+Bali,Hotel,6/16/2020,Rated,33407,50785
+Bali,Hotel,6/16/2020,Not Rated,597,671
+Bali,Hotel,6/17/2020,Rated,35016,51825
+Bali,Hotel,6/17/2020,Not Rated,591,671
+Bali,Hotel,6/18/2020,Rated,35128,51851
+Bali,Hotel,6/18/2020,Not Rated,598,672
+Bali,Hotel,6/19/2020,Rated,31354,48341
+Bali,Hotel,6/19/2020,Not Rated,599,679
+Bali,Hotel,6/20/2020,Rated,36954,53105
+Bali,Hotel,6/20/2020,Not Rated,605,679
+Bali,Hotel,6/21/2020,Rated,32448,48597
+Bali,Hotel,6/21/2020,Not Rated,587,671
+Bali,Hotel,6/22/2020,Rated,32053,48320
+Bali,Hotel,6/22/2020,Not Rated,597,674
+Bali,Hotel,6/23/2020,Rated,36831,53135
+Bali,Hotel,6/23/2020,Not Rated,600,677
+Bali,Hotel,6/24/2020,Rated,36462,52673
+Bali,Hotel,6/24/2020,Not Rated,596,675
+Bali,Hotel,6/25/2020,Rated,31638,48628
+Bali,Hotel,6/25/2020,Not Rated,592,671
+Bali,Hotel,6/26/2020,Rated,32029,48126
+Bali,Hotel,6/26/2020,Not Rated,590,673
+Bali,Hotel,6/27/2020,Rated,32684,48390
+Bali,Hotel,6/27/2020,Not Rated,588,672
+Bali,Hotel,6/28/2020,Rated,32597,48352
+Bali,Hotel,6/28/2020,Not Rated,607,680
+Bali,Hotel,6/29/2020,Rated,32441,48279
+Bali,Hotel,6/29/2020,Not Rated,604,678
+Bali,Hotel,6/30/2020,Rated,32860,48462
+Bali,Hotel,6/30/2020,Not Rated,603,673
+Bali,Hotel,7/1/2020,Rated,34661,52440
+Bali,Hotel,7/1/2020,Not Rated,612,689
+Bali,Hotel,7/2/2020,Rated,34482,51370
+Bali,Hotel,7/2/2020,Not Rated,624,698
+Bali,Hotel,7/3/2020,Rated,36172,53357
+Bali,Hotel,7/3/2020,Not Rated,577,668
+Bali,Hotel,7/4/2020,Rated,36260,53369
+Bali,Hotel,7/4/2020,Not Rated,591,683
+Bali,Hotel,7/5/2020,Rated,37085,53405
+Bali,Hotel,7/5/2020,Not Rated,566,662
+Bali,Hotel,7/6/2020,Rated,36509,53381
+Bali,Hotel,7/6/2020,Not Rated,581,678
+Bali,Hotel,7/7/2020,Rated,35025,51880
+Bali,Hotel,7/7/2020,Not Rated,596,684
+Bali,Hotel,7/8/2020,Rated,35272,52137
+Bali,Hotel,7/8/2020,Not Rated,604,686
+Bali,Hotel,7/9/2020,Rated,35008,52143
+Bali,Hotel,7/9/2020,Not Rated,597,683
+Bali,Hotel,7/10/2020,Rated,36374,52286
+Bali,Hotel,7/10/2020,Not Rated,593,677
+Bali,Hotel,7/11/2020,Rated,35072,50460
+Bali,Hotel,7/11/2020,Not Rated,586,673
+Bali,Hotel,7/12/2020,Rated,37000,52328
+Bali,Hotel,7/12/2020,Not Rated,600,687
+Bali,Hotel,7/13/2020,Rated,33402,47990
+Bali,Hotel,7/13/2020,Not Rated,417,498
+Bali,Hotel,7/14/2020,Rated,35598,51012
+Bali,Hotel,7/14/2020,Not Rated,587,671
+Bali,Hotel,7/15/2020,Rated,37106,52282
+Bali,Hotel,7/15/2020,Not Rated,593,680
+Bali,Hotel,7/16/2020,Rated,35462,51014
+Bali,Hotel,7/16/2020,Not Rated,591,678
+Bali,Hotel,7/17/2020,Rated,35745,51034
+Bali,Hotel,7/17/2020,Not Rated,589,679
+Bali,Hotel,7/18/2020,Rated,36476,52206
+Bali,Hotel,7/18/2020,Not Rated,594,681
+Bali,Hotel,7/19/2020,Rated,36408,52230
+Bali,Hotel,7/19/2020,Not Rated,592,678
+Bali,Hotel,7/20/2020,Rated,34673,51258
+Bali,Hotel,7/20/2020,Not Rated,525,617
+Bali,Hotel,7/21/2020,Rated,35923,52216
+Bali,Hotel,7/21/2020,Not Rated,548,679
+Bali,Hotel,7/22/2020,Rated,35663,52156
+Bali,Hotel,7/22/2020,Not Rated,534,675
+Bali,Hotel,7/23/2020,Rated,33577,52566
+Bali,Hotel,7/23/2020,Not Rated,558,680
+Bali,Hotel,7/24/2020,Rated,34284,51375
+Bali,Hotel,7/24/2020,Not Rated,533,670
+Bali,Hotel,7/25/2020,Rated,34233,51740
+Bali,Hotel,7/25/2020,Not Rated,567,679
+Bali,Hotel,7/26/2020,Rated,216,216
+Bali,Hotel,7/26/2020,Not Rated,23,45
+Bali,Hotel,7/27/2020,Rated,36216,53084
+Bali,Hotel,7/27/2020,Not Rated,558,672
+Bali,Hotel,7/28/2020,Rated,35323,51961
+Bali,Hotel,7/28/2020,Not Rated,562,675
+Bali,Hotel,7/29/2020,Rated,228,228
+Bali,Hotel,7/29/2020,Not Rated,23,45
+Bali,Hotel,7/30/2020,Rated,34064,51783
+Bali,Hotel,7/30/2020,Not Rated,486,604
+Bali,Hotel,7/31/2020,Rated,35143,52533
+Bali,Hotel,7/31/2020,Not Rated,593,716
+Bali,Hotel,8/1/2020,Rated,36347,55307
+Bali,Hotel,8/1/2020,Not Rated,628,722
+Bali,Hotel,8/2/2020,Rated,36547,55229
+Bali,Hotel,8/2/2020,Not Rated,601,693
+Bali,Hotel,8/3/2020,Rated,35657,53807
+Bali,Hotel,8/3/2020,Not Rated,580,670
+Bali,Hotel,8/4/2020,Rated,24054,42490
+Bali,Hotel,8/4/2020,Not Rated,390,478
+Bali,Hotel,8/5/2020,Rated,34638,53395
+Bali,Hotel,8/5/2020,Not Rated,531,614
+Bali,Hotel,8/6/2020,Rated,34629,53377
+Bali,Hotel,8/6/2020,Not Rated,529,638
+Bali,Hotel,8/7/2020,Rated,22882,41703
+Bali,Hotel,8/7/2020,Not Rated,373,489
+Bali,Hotel,8/8/2020,Rated,22550,41324
+Bali,Hotel,8/8/2020,Not Rated,358,475
+Bali,Hotel,8/9/2020,Rated,33775,53337
+Bali,Hotel,8/9/2020,Not Rated,541,651
+Bali,Hotel,8/10/2020,Rated,22748,42160
+Bali,Hotel,8/10/2020,Not Rated,373,485
+Bali,Hotel,8/11/2020,Rated,23166,42413
+Bali,Hotel,8/11/2020,Not Rated,378,488
+Bali,Hotel,8/12/2020,Rated,23131,42325
+Bali,Hotel,8/12/2020,Not Rated,378,490
+Bali,Hotel,8/13/2020,Rated,34486,53246
+Bali,Hotel,8/13/2020,Not Rated,547,656
+Bali,Hotel,8/14/2020,Rated,34918,53502
+Bali,Hotel,8/14/2020,Not Rated,532,660
+Bali,Hotel,8/15/2020,Rated,34967,53422
+Bali,Hotel,8/15/2020,Not Rated,545,657
+Bali,Hotel,8/16/2020,Rated,34555,53248
+Bali,Hotel,8/16/2020,Not Rated,552,664
+Bali,Hotel,8/17/2020,Rated,33769,53294
+Bali,Hotel,8/17/2020,Not Rated,556,660
+Bali,Hotel,8/18/2020,Rated,22840,41886
+Bali,Hotel,8/18/2020,Not Rated,361,471
+Bali,Hotel,8/19/2020,Rated,34428,53112
+Bali,Hotel,8/19/2020,Not Rated,541,654
+Bali,Hotel,8/20/2020,Rated,23776,42527
+Bali,Hotel,8/20/2020,Not Rated,366,476
+Bali,Hotel,8/21/2020,Rated,23896,42962
+Bali,Hotel,8/21/2020,Not Rated,358,470
+Bali,Hotel,8/22/2020,Rated,36229,54064
+Bali,Hotel,8/22/2020,Not Rated,546,654
+Bali,Hotel,8/23/2020,Rated,35623,53986
+Bali,Hotel,8/23/2020,Not Rated,543,650
+Bali,Hotel,8/24/2020,Rated,2274,3793
+Bali,Hotel,8/24/2020,Not Rated,154,194
+Bali,Hotel,8/25/2020,Rated,32873,50552
+Bali,Hotel,8/25/2020,Not Rated,327,419
+Bali,Hotel,8/26/2020,Rated,34328,53297
+Bali,Hotel,8/26/2020,Not Rated,543,651
+Bali,Hotel,8/27/2020,Rated,33845,52525
+Bali,Hotel,8/27/2020,Not Rated,545,651
+Bali,Hotel,8/28/2020,Rated,22555,40537
+Bali,Hotel,8/28/2020,Not Rated,378,485
+Bali,Hotel,8/29/2020,Rated,33629,52391
+Bali,Hotel,8/29/2020,Not Rated,560,665
+Bali,Hotel,8/30/2020,Rated,33264,52384
+Bali,Hotel,8/30/2020,Not Rated,551,659
+Bali,Hotel,8/31/2020,Rated,33657,52644
+Bali,Hotel,8/31/2020,Not Rated,553,662
+Bali,Hotel,9/2/2020,Rated,55247,87167
+Bali,Hotel,9/2/2020,Not Rated,1109,1293
+Bali,Hotel,9/4/2020,Rated,32528,52391
+Bali,Hotel,9/4/2020,Not Rated,513,611
+Bali,Hotel,9/5/2020,Rated,31950,52506
+Bali,Hotel,9/5/2020,Not Rated,612,706
+Bali,Hotel,9/6/2020,Rated,32280,52591
+Bali,Hotel,9/6/2020,Not Rated,603,697
+Bali,Hotel,9/9/2020,Rated,33628,53338
+Bali,Hotel,9/9/2020,Not Rated,657,750
+Bali,Hotel,9/10/2020,Rated,33726,52388
+Bali,Hotel,9/10/2020,Not Rated,530,636
+Bali,Hotel,9/11/2020,Rated,32528,52391
+Bali,Hotel,9/11/2020,Not Rated,513,611
+Bali,Hotel,9/13/2020,Rated,31666,52405
+Bali,Hotel,9/13/2020,Not Rated,695,775
+Bali,Hotel,9/14/2020,Rated,32464,52532
+Bali,Hotel,9/14/2020,Not Rated,689,772
+Bali,Hotel,9/15/2020,Rated,29497,50437
+Bali,Hotel,9/15/2020,Not Rated,674,759
+Bali,Hotel,9/16/2020,Rated,28680,49733
+Bali,Hotel,9/16/2020,Not Rated,664,749
+Bali,Hotel,9/17/2020,Rated,29050,49714
+Bali,Hotel,9/17/2020,Not Rated,620,714
+Bali,Hotel,9/18/2020,Rated,29603,49852
+Bali,Hotel,9/18/2020,Not Rated,641,731
+Bali,Hotel,9/19/2020,Rated,29214,49774
+Bali,Hotel,9/19/2020,Not Rated,655,745
+Bali,Hotel,9/20/2020,Rated,28514,50011
+Bali,Hotel,9/20/2020,Not Rated,701,787
+Bali,Hotel,9/21/2020,Rated,29066,49949
+Bali,Hotel,9/21/2020,Not Rated,632,722
+Bali,Hotel,9/22/2020,Rated,28321,49327
+Bali,Hotel,9/22/2020,Not Rated,576,706
+Bali,Hotel,9/23/2020,Rated,29917,50919
+Bali,Hotel,9/23/2020,Not Rated,676,791
+Bali,Hotel,9/24/2020,Rated,30724,50770
+Bali,Hotel,9/24/2020,Not Rated,466,565
+Bali,Hotel,9/25/2020,Rated,30230,50658
+Bali,Hotel,9/25/2020,Not Rated,651,766
+Bali,Hotel,9/26/2020,Rated,30922,51072
+Bali,Hotel,9/26/2020,Not Rated,597,718
+Bali,Hotel,9/27/2020,Rated,29135,50016
+Bali,Hotel,9/27/2020,Not Rated,653,768
+Bali,Hotel,9/28/2020,Rated,31287,50594
+Bali,Hotel,9/28/2020,Not Rated,620,741
+Bali,Hotel,9/29/2020,Rated,31035,50791
+Bali,Hotel,9/29/2020,Not Rated,657,776
+Bali,Hotel,9/30/2020,Rated,30893,51168
+Bali,Hotel,9/30/2020,Not Rated,577,700
+Bali,Hotel,10/1/2020,Rated,29282,50035
+Bali,Hotel,10/1/2020,Not Rated,654,769
+Bali,Hotel,10/2/2020,Rated,29928,50443
+Bali,Hotel,10/2/2020,Not Rated,638,764
+Bali,Hotel,10/3/2020,Rated,29525,50051
+Bali,Hotel,10/3/2020,Not Rated,639,761
+Bali,Hotel,10/5/2020,Rated,29764,50187
+Bali,Hotel,10/5/2020,Not Rated,650,774
+Bali,Hotel,10/6/2020,Rated,32157,51782
+Bali,Hotel,10/6/2020,Not Rated,660,785
+Bali,Hotel,10/7/2020,Rated,31176,51124
+Bali,Hotel,10/7/2020,Not Rated,680,792
+Bali,Hotel,10/8/2020,Rated,32385,51901
+Bali,Hotel,10/8/2020,Not Rated,667,782
+Bali,Hotel,10/9/2020,Rated,34042,52885
+Bali,Hotel,10/9/2020,Not Rated,676,787
+Bali,Hotel,10/10/2020,Rated,32485,51731
+Bali,Hotel,10/10/2020,Not Rated,655,781
+Bali,Hotel,10/11/2020,Rated,32092,50933
+Bali,Hotel,10/11/2020,Not Rated,666,785
+Bali,Hotel,10/12/2020,Rated,33305,52944
+Bali,Hotel,10/12/2020,Not Rated,663,785
+Bali,Hotel,10/13/2020,Rated,33119,52913
+Bali,Hotel,10/13/2020,Not Rated,670,786
+Bali,Hotel,10/14/2020,Rated,31296,51076
+Bali,Hotel,10/14/2020,Not Rated,666,787
+Bali,Hotel,10/15/2020,Rated,32261,52300
+Bali,Hotel,10/15/2020,Not Rated,667,785
+Bali,Hotel,10/16/2020,Rated,32057,51631
+Bali,Hotel,10/16/2020,Not Rated,649,765
+Bali,Hotel,10/17/2020,Rated,33276,52525
+Bali,Hotel,10/17/2020,Not Rated,618,737
+Bali,Hotel,10/18/2020,Rated,32139,52079
+Bali,Hotel,10/18/2020,Not Rated,638,761
+Bali,Hotel,10/19/2020,Rated,33399,52394
+Bali,Hotel,10/19/2020,Not Rated,654,776
+Bali,Hotel,10/20/2020,Rated,32781,51564
+Bali,Hotel,10/20/2020,Not Rated,656,768
+Bali,Hotel,10/21/2020,Rated,33218,52655
+Bali,Hotel,10/21/2020,Not Rated,672,769
+Bali,Hotel,10/22/2020,Rated,31471,51418
+Bali,Hotel,10/22/2020,Not Rated,658,766
+Bali,Hotel,10/23/2020,Rated,30486,50853
+Bali,Hotel,10/23/2020,Not Rated,632,753
+Bali,Hotel,10/24/2020,Rated,33538,53331
+Bali,Hotel,10/24/2020,Not Rated,660,756
+Bali,Hotel,10/25/2020,Rated,32203,52269
+Bali,Hotel,10/25/2020,Not Rated,558,690
+Bali,Hotel,10/26/2020,Rated,33023,52899
+Bali,Hotel,10/26/2020,Not Rated,623,745
+Bali,Hotel,10/27/2020,Rated,31507,52171
+Bali,Hotel,10/27/2020,Not Rated,620,741
+Bali,Hotel,10/28/2020,Rated,31058,50543
+Bali,Hotel,10/28/2020,Not Rated,445,543
+Bali,Hotel,10/29/2020,Rated,31967,52467
+Bali,Hotel,10/29/2020,Not Rated,612,732
+Bali,Hotel,10/30/2020,Rated,30148,49964
+Bali,Hotel,10/30/2020,Not Rated,590,730
+Bali,Hotel,10/31/2020,Rated,33065,52971
+Bali,Hotel,10/31/2020,Not Rated,576,719
+Bali,Hotel,11/2/2020,Rated,30586,51350
+Bali,Hotel,11/2/2020,Not Rated,616,752
+Bali,Hotel,11/3/2020,Rated,30556,50857
+Bali,Hotel,11/3/2020,Not Rated,626,758
+Bali,Hotel,11/4/2020,Rated,29856,50571
+Bali,Hotel,11/4/2020,Not Rated,621,753
+Bali,Hotel,11/5/2020,Rated,30412,51249
+Bali,Hotel,11/5/2020,Not Rated,612,745
+Bali,Hotel,11/6/2020,Rated,30546,51422
+Bali,Hotel,11/6/2020,Not Rated,604,730
+Bali,Hotel,11/7/2020,Rated,27918,48904
+Bali,Hotel,11/7/2020,Not Rated,595,725
+Bali,Hotel,11/8/2020,Rated,29069,49511
+Bali,Hotel,11/8/2020,Not Rated,626,752
+Bali,Hotel,11/9/2020,Rated,29579,50120
+Bali,Hotel,11/9/2020,Not Rated,616,745
+Bali,Hotel,11/10/2020,Rated,31224,51257
+Bali,Hotel,11/10/2020,Not Rated,636,759
+Bali,Hotel,11/11/2020,Rated,30946,51703
+Bali,Hotel,11/11/2020,Not Rated,630,758
+Bali,Hotel,11/12/2020,Rated,30905,51797
+Bali,Hotel,11/12/2020,Not Rated,635,760
+Bali,Hotel,11/13/2020,Rated,30578,50767
+Bali,Hotel,11/13/2020,Not Rated,610,738
+Bali,Hotel,11/14/2020,Rated,30878,50746
+Bali,Hotel,11/14/2020,Not Rated,571,703
+Bali,Hotel,11/15/2020,Rated,30739,51242
+Bali,Hotel,11/15/2020,Not Rated,647,744
+Bali,Hotel,11/16/2020,Rated,31729,52105
+Bali,Hotel,11/16/2020,Not Rated,612,748
+Bali,Hotel,11/17/2020,Rated,30449,51208
+Bali,Hotel,11/17/2020,Not Rated,622,743
+Bali,Hotel,11/18/2020,Rated,31168,51335
+Bali,Hotel,11/18/2020,Not Rated,623,736
+Bali,Hotel,11/19/2020,Rated,29640,50455
+Bali,Hotel,11/19/2020,Not Rated,621,738
+Bali,Hotel,11/20/2020,Rated,29350,50368
+Bali,Hotel,11/20/2020,Not Rated,597,739
+Bali,Hotel,11/23/2020,Rated,29440,50492
+Bali,Hotel,11/23/2020,Not Rated,597,737
+Bali,Hotel,11/24/2020,Rated,30048,50385
+Bali,Hotel,11/24/2020,Not Rated,595,733
+Bali,Hotel,11/25/2020,Rated,29993,51101
+Bali,Hotel,11/25/2020,Not Rated,608,743
+Bali,Hotel,11/26/2020,Rated,30661,51202
+Bali,Hotel,11/26/2020,Not Rated,602,745
+Bali,Hotel,11/28/2020,Rated,30090,50590
+Bali,Hotel,11/28/2020,Not Rated,535,715
+Bali,Hotel,11/29/2020,Rated,30819,51231
+Bali,Hotel,11/29/2020,Not Rated,590,703
+Bali,Hotel,11/30/2020,Rated,30087,51125
+Bali,Hotel,11/30/2020,Not Rated,587,722
+Bali,Hotel,12/1/2020,Rated,25138,46732
+Bali,Hotel,12/1/2020,Not Rated,522,650
+Bali,Hotel,12/2/2020,Rated,21823,43875
+Bali,Hotel,12/2/2020,Not Rated,506,634
+Bali,Hotel,12/3/2020,Rated,21358,43428
+Bali,Hotel,12/3/2020,Not Rated,504,633
+Bali,Hotel,12/4/2020,Rated,22958,44784
+Bali,Hotel,12/4/2020,Not Rated,497,628
+Bali,Hotel,12/5/2020,Rated,23469,44893
+Bali,Hotel,12/5/2020,Not Rated,514,621
+Bali,Hotel,12/6/2020,Rated,23012,44563
+Bali,Hotel,12/6/2020,Not Rated,504,632
+Bali,Hotel,12/7/2020,Rated,23934,45353
+Bali,Hotel,12/7/2020,Not Rated,508,634
+Bali,Hotel,12/8/2020,Rated,24368,45941
+Bali,Hotel,12/8/2020,Not Rated,498,629
+Bali,Hotel,12/9/2020,Rated,26103,47505
+Bali,Hotel,12/9/2020,Not Rated,474,600
+Bali,Hotel,12/10/2020,Rated,23403,45064
+Bali,Hotel,12/10/2020,Not Rated,492,614
+Bali,Hotel,12/11/2020,Rated,25156,46499
+Bali,Hotel,12/11/2020,Not Rated,467,613
+Bali,Hotel,12/12/2020,Rated,23615,44983
+Bali,Hotel,12/12/2020,Not Rated,487,610
+Bali,Hotel,12/13/2020,Rated,24613,46574
+Bali,Hotel,12/13/2020,Not Rated,486,617
+Bali,Hotel,12/14/2020,Rated,23767,46040
+Bali,Hotel,12/14/2020,Not Rated,520,642
+Bali,Hotel,12/15/2020,Rated,24047,45884
+Bali,Hotel,12/15/2020,Not Rated,518,639
+Bali,Hotel,12/16/2020,Rated,22730,44335
+Bali,Hotel,12/16/2020,Not Rated,503,627
+Bali,Hotel,12/17/2020,Rated,25662,47088
+Bali,Hotel,12/17/2020,Not Rated,495,612
+Bali,Hotel,12/18/2020,Rated,23622,45530
+Bali,Hotel,12/18/2020,Not Rated,475,595
+Bali,Hotel,12/19/2020,Rated,24757,46788
+Bali,Hotel,12/19/2020,Not Rated,474,596
+Bali,Hotel,12/20/2020,Rated,23497,45635
+Bali,Hotel,12/20/2020,Not Rated,472,610
+Bali,Hotel,12/21/2020,Rated,25562,47078
+Bali,Hotel,12/21/2020,Not Rated,512,602
+Bali,Hotel,12/22/2020,Rated,24495,46118
+Bali,Hotel,12/22/2020,Not Rated,459,589
+Bali,Hotel,12/23/2020,Rated,25858,47426
+Bali,Hotel,12/23/2020,Not Rated,477,590
+Bali,Hotel,12/24/2020,Rated,24308,46251
+Bali,Hotel,12/24/2020,Not Rated,472,569
+Bali,Hotel,12/25/2020,Rated,26381,48336
+Bali,Hotel,12/25/2020,Not Rated,464,569
+Bali,Hotel,12/26/2020,Rated,23094,45685
+Bali,Hotel,12/26/2020,Not Rated,444,561
+Bali,Hotel,12/27/2020,Rated,26009,47939
+Bali,Hotel,12/27/2020,Not Rated,473,561
+Bali,Hotel,12/28/2020,Rated,22471,45383
+Bali,Hotel,12/28/2020,Not Rated,512,586
+Bali,Hotel,12/29/2020,Rated,24314,47161
+Bali,Hotel,12/29/2020,Not Rated,475,568
+Bali,Hotel,12/30/2020,Rated,24240,45600
+Bali,Hotel,12/30/2020,Not Rated,427,551
+Bali,Hotel,12/31/2020,Rated,26194,46764
+Bali,Hotel,12/31/2020,Not Rated,441,523

@@ -1,0 +1,357 @@
+province,type,tanggal,klasifikasi,all_available_room,room_total
+Bali,Hotel,1/1/2021,Rated,31334,54852
+Bali,Hotel,1/1/2021,Not Rated,618,702
+Bali,Hotel,1/2/2021,Rated,33698,55950
+Bali,Hotel,1/2/2021,Not Rated,642,705
+Bali,Hotel,1/3/2021,Rated,33310,55380
+Bali,Hotel,1/3/2021,Not Rated,664,742
+Bali,Hotel,1/4/2021,Rated,35377,56726
+Bali,Hotel,1/4/2021,Not Rated,719,767
+Bali,Hotel,1/5/2021,Rated,33457,55027
+Bali,Hotel,1/5/2021,Not Rated,699,753
+Bali,Hotel,1/6/2021,Rated,35742,56808
+Bali,Hotel,1/6/2021,Not Rated,669,730
+Bali,Hotel,1/7/2021,Rated,32299,53998
+Bali,Hotel,1/7/2021,Not Rated,675,734
+Bali,Hotel,1/8/2021,Rated,35276,56357
+Bali,Hotel,1/8/2021,Not Rated,692,739
+Bali,Hotel,1/9/2021,Rated,35164,56704
+Bali,Hotel,1/9/2021,Not Rated,702,750
+Bali,Hotel,1/10/2021,Rated,35866,56748
+Bali,Hotel,1/10/2021,Not Rated,698,758
+Bali,Hotel,1/11/2021,Rated,34884,56158
+Bali,Hotel,1/11/2021,Not Rated,673,730
+Bali,Hotel,1/12/2021,Rated,35761,56667
+Bali,Hotel,1/12/2021,Not Rated,674,735
+Bali,Hotel,1/13/2021,Rated,34097,55032
+Bali,Hotel,1/13/2021,Not Rated,680,738
+Bali,Hotel,1/14/2021,Rated,36604,57343
+Bali,Hotel,1/14/2021,Not Rated,677,733
+Bali,Hotel,1/15/2021,Rated,31936,53362
+Bali,Hotel,1/15/2021,Not Rated,662,737
+Bali,Hotel,1/16/2021,Rated,35392,56503
+Bali,Hotel,1/16/2021,Not Rated,666,726
+Bali,Hotel,1/17/2021,Rated,31856,53082
+Bali,Hotel,1/17/2021,Not Rated,672,730
+Bali,Hotel,1/18/2021,Rated,34941,56173
+Bali,Hotel,1/18/2021,Not Rated,690,750
+Bali,Hotel,1/19/2021,Rated,32490,53468
+Bali,Hotel,1/19/2021,Not Rated,673,735
+Bali,Hotel,1/20/2021,Rated,35709,56247
+Bali,Hotel,1/20/2021,Not Rated,672,731
+Bali,Hotel,1/21/2021,Rated,32871,53872
+Bali,Hotel,1/21/2021,Not Rated,654,718
+Bali,Hotel,1/22/2021,Rated,35870,56490
+Bali,Hotel,1/22/2021,Not Rated,626,692
+Bali,Hotel,1/23/2021,Rated,33246,53650
+Bali,Hotel,1/23/2021,Not Rated,629,711
+Bali,Hotel,1/24/2021,Rated,35489,55455
+Bali,Hotel,1/24/2021,Not Rated,640,722
+Bali,Hotel,1/25/2021,Rated,32570,53152
+Bali,Hotel,1/25/2021,Not Rated,660,722
+Bali,Hotel,1/26/2021,Rated,33619,54331
+Bali,Hotel,1/26/2021,Not Rated,657,716
+Bali,Hotel,1/27/2021,Rated,32156,52956
+Bali,Hotel,1/27/2021,Not Rated,640,720
+Bali,Hotel,1/28/2021,Rated,33504,54127
+Bali,Hotel,1/28/2021,Not Rated,641,718
+Bali,Hotel,1/29/2021,Rated,33287,53844
+Bali,Hotel,1/29/2021,Not Rated,640,718
+Bali,Hotel,1/30/2021,Rated,35466,56014
+Bali,Hotel,1/30/2021,Not Rated,630,711
+Bali,Hotel,1/31/2021,Rated,32535,53328
+Bali,Hotel,1/31/2021,Not Rated,643,722
+Bali,Hotel,2/1/2021,Rated,35787,56201
+Bali,Hotel,2/1/2021,Not Rated,609,702
+Bali,Hotel,2/2/2021,Rated,32535,53209
+Bali,Hotel,2/2/2021,Not Rated,621,700
+Bali,Hotel,2/3/2021,Rated,35097,55182
+Bali,Hotel,2/3/2021,Not Rated,653,722
+Bali,Hotel,2/4/2021,Rated,32996,53380
+Bali,Hotel,2/4/2021,Not Rated,604,704
+Bali,Hotel,2/5/2021,Rated,34477,55090
+Bali,Hotel,2/5/2021,Not Rated,627,702
+Bali,Hotel,2/6/2021,Rated,31788,52483
+Bali,Hotel,2/6/2021,Not Rated,604,706
+Bali,Hotel,2/7/2021,Rated,34712,55361
+Bali,Hotel,2/7/2021,Not Rated,612,706
+Bali,Hotel,2/8/2021,Rated,31256,52293
+Bali,Hotel,2/8/2021,Not Rated,603,704
+Bali,Hotel,2/9/2021,Rated,34933,55846
+Bali,Hotel,2/9/2021,Not Rated,615,721
+Bali,Hotel,2/10/2021,Rated,29183,50510
+Bali,Hotel,2/10/2021,Not Rated,621,714
+Bali,Hotel,2/11/2021,Rated,30668,52205
+Bali,Hotel,2/11/2021,Not Rated,629,721
+Bali,Hotel,2/12/2021,Rated,29416,50584
+Bali,Hotel,2/12/2021,Not Rated,622,716
+Bali,Hotel,2/13/2021,Rated,30072,51659
+Bali,Hotel,2/13/2021,Not Rated,624,717
+Bali,Hotel,2/14/2021,Rated,28515,50550
+Bali,Hotel,2/14/2021,Not Rated,616,707
+Bali,Hotel,2/15/2021,Rated,30271,51659
+Bali,Hotel,2/15/2021,Not Rated,621,708
+Bali,Hotel,2/16/2021,Rated,28581,50562
+Bali,Hotel,2/16/2021,Not Rated,626,713
+Bali,Hotel,2/17/2021,Rated,31366,52668
+Bali,Hotel,2/17/2021,Not Rated,622,711
+Bali,Hotel,2/18/2021,Rated,29372,50790
+Bali,Hotel,2/18/2021,Not Rated,618,703
+Bali,Hotel,2/19/2021,Rated,29979,51900
+Bali,Hotel,2/19/2021,Not Rated,621,713
+Bali,Hotel,2/20/2021,Rated,29064,50607
+Bali,Hotel,2/20/2021,Not Rated,632,715
+Bali,Hotel,2/21/2021,Rated,28606,50040
+Bali,Hotel,2/21/2021,Not Rated,613,711
+Bali,Hotel,2/22/2021,Rated,29337,50851
+Bali,Hotel,2/22/2021,Not Rated,671,729
+Bali,Hotel,2/23/2021,Rated,28634,50085
+Bali,Hotel,2/23/2021,Not Rated,666,728
+Bali,Hotel,2/24/2021,Rated,29003,50282
+Bali,Hotel,2/24/2021,Not Rated,677,739
+Bali,Hotel,2/25/2021,Rated,25850,47098
+Bali,Hotel,2/25/2021,Not Rated,573,633
+Bali,Hotel,2/26/2021,Rated,26040,47713
+Bali,Hotel,2/26/2021,Not Rated,586,649
+Bali,Hotel,2/27/2021,Rated,25908,47433
+Bali,Hotel,2/27/2021,Not Rated,596,656
+Bali,Hotel,2/28/2021,Rated,29256,50698
+Bali,Hotel,2/28/2021,Not Rated,673,737
+Bali,Hotel,3/1/2021,Rated,28788,48698
+Bali,Hotel,3/1/2021,Not Rated,669,729
+Bali,Hotel,3/2/2021,Rated,31512,51801
+Bali,Hotel,3/2/2021,Not Rated,742,804
+Bali,Hotel,3/3/2021,Rated,34594,54469
+Bali,Hotel,3/3/2021,Not Rated,744,804
+Bali,Hotel,3/4/2021,Rated,32012,51920
+Bali,Hotel,3/4/2021,Not Rated,713,774
+Bali,Hotel,3/5/2021,Rated,30787,50461
+Bali,Hotel,3/5/2021,Not Rated,681,742
+Bali,Hotel,3/6/2021,Rated,32967,53267
+Bali,Hotel,3/6/2021,Not Rated,752,815
+Bali,Hotel,3/7/2021,Rated,31515,51816
+Bali,Hotel,3/7/2021,Not Rated,649,706
+Bali,Hotel,3/8/2021,Rated,32836,52786
+Bali,Hotel,3/8/2021,Not Rated,722,782
+Bali,Hotel,3/9/2021,Rated,30601,50717
+Bali,Hotel,3/9/2021,Not Rated,669,730
+Bali,Hotel,3/10/2021,Rated,31772,51384
+Bali,Hotel,3/10/2021,Not Rated,616,688
+Bali,Hotel,3/11/2021,Rated,30865,50808
+Bali,Hotel,3/11/2021,Not Rated,711,768
+Bali,Hotel,3/12/2021,Rated,32682,52253
+Bali,Hotel,3/12/2021,Not Rated,707,760
+Bali,Hotel,3/13/2021,Rated,31895,42271
+Bali,Hotel,3/13/2021,Not Rated,343,440
+Bali,Hotel,3/14/2021,Rated,33445,43592
+Bali,Hotel,3/14/2021,Not Rated,402,462
+Bali,Hotel,3/15/2021,Rated,31935,51486
+Bali,Hotel,3/15/2021,Not Rated,713,771
+Bali,Hotel,3/16/2021,Rated,33257,52838
+Bali,Hotel,3/16/2021,Not Rated,726,785
+Bali,Hotel,3/17/2021,Rated,33737,53512
+Bali,Hotel,3/17/2021,Not Rated,749,803
+Bali,Hotel,3/18/2021,Rated,32197,51528
+Bali,Hotel,3/18/2021,Not Rated,627,678
+Bali,Hotel,3/19/2021,Rated,31776,51566
+Bali,Hotel,3/19/2021,Not Rated,583,640
+Bali,Hotel,3/20/2021,Rated,31475,51505
+Bali,Hotel,3/20/2021,Not Rated,658,716
+Bali,Hotel,3/22/2021,Rated,30535,50817
+Bali,Hotel,3/22/2021,Not Rated,628,685
+Bali,Hotel,3/23/2021,Rated,31129,51168
+Bali,Hotel,3/23/2021,Not Rated,642,696
+Bali,Hotel,3/24/2021,Rated,29175,49606
+Bali,Hotel,3/24/2021,Not Rated,589,644
+Bali,Hotel,3/25/2021,Rated,30835,51398
+Bali,Hotel,3/25/2021,Not Rated,648,709
+Bali,Hotel,3/26/2021,Rated,31824,52333
+Bali,Hotel,3/26/2021,Not Rated,666,732
+Bali,Hotel,3/27/2021,Rated,36901,55659
+Bali,Hotel,3/27/2021,Not Rated,594,666
+Bali,Hotel,3/28/2021,Rated,31319,50412
+Bali,Hotel,3/28/2021,Not Rated,611,679
+Bali,Hotel,3/29/2021,Rated,35118,54390
+Bali,Hotel,3/29/2021,Not Rated,600,665
+Bali,Hotel,3/30/2021,Rated,31608,50660
+Bali,Hotel,3/30/2021,Not Rated,631,696
+Bali,Hotel,3/31/2021,Rated,36845,55820
+Bali,Hotel,3/31/2021,Not Rated,636,700
+Bali,Hotel,4/1/2021,Rated,31440,51380
+Bali,Hotel,4/1/2021,Not Rated,602,665
+Bali,Hotel,4/2/2021,Rated,35451,55728
+Bali,Hotel,4/2/2021,Not Rated,671,743
+Bali,Hotel,4/3/2021,Rated,32392,52980
+Bali,Hotel,4/3/2021,Not Rated,628,700
+Bali,Hotel,4/4/2021,Rated,35032,55427
+Bali,Hotel,4/4/2021,Not Rated,628,728
+Bali,Hotel,4/5/2021,Rated,31174,51128
+Bali,Hotel,4/5/2021,Not Rated,623,690
+Bali,Hotel,4/6/2021,Rated,33858,53680
+Bali,Hotel,4/6/2021,Not Rated,604,679
+Bali,Hotel,4/7/2021,Rated,30547,50857
+Bali,Hotel,4/7/2021,Not Rated,564,644
+Bali,Hotel,4/8/2021,Rated,34419,54660
+Bali,Hotel,4/8/2021,Not Rated,643,719
+Bali,Hotel,4/9/2021,Rated,30687,51704
+Bali,Hotel,4/9/2021,Not Rated,661,742
+Bali,Hotel,4/10/2021,Rated,35208,55579
+Bali,Hotel,4/10/2021,Not Rated,663,746
+Bali,Hotel,4/11/2021,Rated,31829,52383
+Bali,Hotel,4/11/2021,Not Rated,639,716
+Bali,Hotel,4/12/2021,Rated,34661,54406
+Bali,Hotel,4/12/2021,Not Rated,653,722
+Bali,Hotel,4/13/2021,Rated,31988,52363
+Bali,Hotel,4/13/2021,Not Rated,672,741
+Bali,Hotel,4/14/2021,Rated,34262,54038
+Bali,Hotel,4/14/2021,Not Rated,642,711
+Bali,Hotel,4/15/2021,Rated,31857,51932
+Bali,Hotel,4/15/2021,Not Rated,624,695
+Bali,Hotel,4/16/2021,Rated,35131,55044
+Bali,Hotel,4/16/2021,Not Rated,617,708
+Bali,Hotel,4/17/2021,Rated,33320,53615
+Bali,Hotel,4/17/2021,Not Rated,616,709
+Bali,Hotel,4/18/2021,Rated,35122,55236
+Bali,Hotel,4/18/2021,Not Rated,587,680
+Bali,Hotel,4/19/2021,Rated,31304,51356
+Bali,Hotel,4/19/2021,Not Rated,570,665
+Bali,Hotel,4/20/2021,Rated,35912,55950
+Bali,Hotel,4/20/2021,Not Rated,632,725
+Bali,Hotel,4/21/2021,Rated,33711,53709
+Bali,Hotel,4/21/2021,Not Rated,621,714
+Bali,Hotel,4/22/2021,Rated,34427,53802
+Bali,Hotel,4/22/2021,Not Rated,588,680
+Bali,Hotel,4/23/2021,Rated,33619,53488
+Bali,Hotel,4/23/2021,Not Rated,582,676
+Bali,Hotel,4/24/2021,Rated,33647,53779
+Bali,Hotel,4/24/2021,Not Rated,597,689
+Bali,Hotel,4/25/2021,Rated,34082,54138
+Bali,Hotel,4/25/2021,Not Rated,603,698
+Bali,Hotel,4/26/2021,Rated,34172,53677
+Bali,Hotel,4/26/2021,Not Rated,598,692
+Bali,Hotel,4/27/2021,Rated,32540,52211
+Bali,Hotel,4/27/2021,Not Rated,609,703
+Bali,Hotel,4/28/2021,Rated,32723,51978
+Bali,Hotel,4/28/2021,Not Rated,568,661
+Bali,Hotel,4/29/2021,Rated,34596,54319
+Bali,Hotel,4/29/2021,Not Rated,593,698
+Bali,Hotel,4/30/2021,Rated,33688,53117
+Bali,Hotel,4/30/2021,Not Rated,622,709
+Bali,Hotel,5/1/2021,Rated,34189,54462
+Bali,Hotel,5/1/2021,Not Rated,626,720
+Bali,Hotel,5/3/2021,Rated,35544,54805
+Bali,Hotel,5/3/2021,Not Rated,613,706
+Bali,Hotel,5/4/2021,Rated,35064,54676
+Bali,Hotel,5/4/2021,Not Rated,634,726
+Bali,Hotel,5/5/2021,Rated,34269,54356
+Bali,Hotel,5/5/2021,Not Rated,640,729
+Bali,Hotel,5/6/2021,Rated,36179,55868
+Bali,Hotel,5/6/2021,Not Rated,638,730
+Bali,Hotel,5/7/2021,Rated,35425,55617
+Bali,Hotel,5/7/2021,Not Rated,645,739
+Bali,Hotel,5/8/2021,Rated,30784,50876
+Bali,Hotel,5/8/2021,Not Rated,618,713
+Bali,Hotel,5/9/2021,Rated,33406,54043
+Bali,Hotel,5/9/2021,Not Rated,623,714
+Bali,Hotel,5/10/2021,Rated,33086,53486
+Bali,Hotel,5/10/2021,Not Rated,610,699
+Bali,Hotel,5/11/2021,Rated,34055,54172
+Bali,Hotel,5/11/2021,Not Rated,588,681
+Bali,Hotel,5/12/2021,Rated,33340,53538
+Bali,Hotel,5/12/2021,Not Rated,617,708
+Bali,Hotel,5/13/2021,Rated,31869,52309
+Bali,Hotel,5/13/2021,Not Rated,610,701
+Bali,Hotel,5/14/2021,Rated,32364,52820
+Bali,Hotel,5/14/2021,Not Rated,612,706
+Bali,Hotel,5/15/2021,Rated,33722,53747
+Bali,Hotel,5/15/2021,Not Rated,626,714
+Bali,Hotel,5/16/2021,Rated,35147,55409
+Bali,Hotel,5/16/2021,Not Rated,651,740
+Bali,Hotel,5/17/2021,Rated,34162,53796
+Bali,Hotel,5/17/2021,Not Rated,625,717
+Bali,Hotel,5/18/2021,Rated,35932,54808
+Bali,Hotel,5/18/2021,Not Rated,616,710
+Bali,Hotel,5/19/2021,Rated,32721,53474
+Bali,Hotel,5/19/2021,Not Rated,668,739
+Bali,Hotel,5/20/2021,Rated,33819,54192
+Bali,Hotel,5/20/2021,Not Rated,661,737
+Bali,Hotel,5/21/2021,Rated,34556,55115
+Bali,Hotel,5/21/2021,Not Rated,623,713
+Bali,Hotel,5/22/2021,Rated,34745,54968
+Bali,Hotel,5/22/2021,Not Rated,616,712
+Bali,Hotel,5/23/2021,Rated,34630,55419
+Bali,Hotel,5/23/2021,Not Rated,637,726
+Bali,Hotel,5/24/2021,Rated,33882,54785
+Bali,Hotel,5/24/2021,Not Rated,637,732
+Bali,Hotel,5/25/2021,Rated,34257,54648
+Bali,Hotel,5/25/2021,Not Rated,625,718
+Bali,Hotel,5/26/2021,Rated,33862,54393
+Bali,Hotel,5/26/2021,Not Rated,626,718
+Bali,Hotel,5/27/2021,Rated,32938,53738
+Bali,Hotel,5/27/2021,Not Rated,610,702
+Bali,Hotel,5/28/2021,Rated,32278,53627
+Bali,Hotel,5/28/2021,Not Rated,630,717
+Bali,Hotel,5/29/2021,Rated,31186,52532
+Bali,Hotel,5/29/2021,Not Rated,624,711
+Bali,Hotel,5/30/2021,Rated,31212,52064
+Bali,Hotel,5/30/2021,Not Rated,605,692
+Bali,Hotel,6/1/2021,Rated,35520,56133
+Bali,Hotel,6/1/2021,Not Rated,636,726
+Bali,Hotel,6/2/2021,Rated,34714,55270
+Bali,Hotel,6/2/2021,Not Rated,658,732
+Bali,Hotel,6/3/2021,Rated,32485,53435
+Bali,Hotel,6/3/2021,Not Rated,649,725
+Bali,Hotel,6/4/2021,Rated,30955,51998
+Bali,Hotel,6/4/2021,Not Rated,630,710
+Bali,Hotel,6/5/2021,Rated,32388,53346
+Bali,Hotel,6/5/2021,Not Rated,600,676
+Bali,Hotel,6/6/2021,Rated,33426,54815
+Bali,Hotel,6/6/2021,Not Rated,622,713
+Bali,Hotel,6/7/2021,Rated,33887,54294
+Bali,Hotel,6/7/2021,Not Rated,625,715
+Bali,Hotel,6/8/2021,Rated,34656,55577
+Bali,Hotel,6/8/2021,Not Rated,637,726
+Bali,Hotel,6/9/2021,Rated,33183,54096
+Bali,Hotel,6/9/2021,Not Rated,631,722
+Bali,Hotel,6/10/2021,Rated,33162,54245
+Bali,Hotel,6/10/2021,Not Rated,623,715
+Bali,Hotel,6/11/2021,Rated,33469,53711
+Bali,Hotel,6/11/2021,Not Rated,615,706
+Bali,Hotel,6/12/2021,Rated,32869,53984
+Bali,Hotel,6/12/2021,Not Rated,608,707
+Bali,Hotel,6/13/2021,Rated,31843,53742
+Bali,Hotel,6/13/2021,Not Rated,576,672
+Bali,Hotel,6/14/2021,Rated,31354,53047
+Bali,Hotel,6/14/2021,Not Rated,575,666
+Bali,Hotel,6/15/2021,Rated,33156,54587
+Bali,Hotel,6/15/2021,Not Rated,569,662
+Bali,Hotel,6/16/2021,Rated,32614,54260
+Bali,Hotel,6/16/2021,Not Rated,574,668
+Bali,Hotel,6/17/2021,Rated,29926,50964
+Bali,Hotel,6/17/2021,Not Rated,513,617
+Bali,Hotel,6/18/2021,Rated,32114,53638
+Bali,Hotel,6/18/2021,Not Rated,541,670
+Bali,Hotel,6/19/2021,Rated,32628,54003
+Bali,Hotel,6/19/2021,Not Rated,552,673
+Bali,Hotel,6/20/2021,Rated,32284,53411
+Bali,Hotel,6/20/2021,Not Rated,555,673
+Bali,Hotel,6/21/2021,Rated,33884,54473
+Bali,Hotel,6/21/2021,Not Rated,560,676
+Bali,Hotel,6/22/2021,Rated,31899,53380
+Bali,Hotel,6/22/2021,Not Rated,610,689
+Bali,Hotel,6/23/2021,Rated,32314,53748
+Bali,Hotel,6/23/2021,Not Rated,583,676
+Bali,Hotel,6/24/2021,Rated,32369,53377
+Bali,Hotel,6/24/2021,Not Rated,597,689
+Bali,Hotel,6/25/2021,Rated,32895,54213
+Bali,Hotel,6/25/2021,Not Rated,584,681
+Bali,Hotel,6/26/2021,Rated,33519,53589
+Bali,Hotel,6/26/2021,Not Rated,604,690
+Bali,Hotel,6/27/2021,Rated,33785,54806
+Bali,Hotel,6/27/2021,Not Rated,577,667
+Bali,Hotel,6/28/2021,Rated,32432,53344
+Bali,Hotel,6/28/2021,Not Rated,562,654
+Bali,Hotel,6/29/2021,Rated,33613,54671
+Bali,Hotel,6/29/2021,Not Rated,593,683
+Bali,Hotel,6/30/2021,Rated,32611,53825
+Bali,Hotel,6/30/2021,Not Rated,579,680
